@@ -287,4 +287,4 @@ async def on_ready():
     print(f'We have logged in as {bot.user}')
     await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name="dir zu"))
 
-bot.run('MTE5Mjg5MDQ1MjM4MzM4NzgwOQ.GvbATw.I_a6ApzFQzoDOmz4r7AEBUEnaDwfD8d5Ul5CUw')
+bot.run('')
